@@ -1,1 +1,0 @@
-# jQuery-Joke-Machine
