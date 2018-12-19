@@ -1,0 +1,15 @@
+body{
+    margin-bottom: 100px;
+}
+
+div{
+    font-size: 2em;
+}
+
+img{
+    width:300px;
+}
+
+#answer1, #answerTwo, #answer-3, #joke4img {
+    display: none;
+}
